@@ -21,4 +21,6 @@
             android:layout_height="wrap_content"
             android:paddingLeft="5dp"/>
     </LinearLayout>
+    <View
+        style="@style/item_divider"/>
 </LinearLayout>
